@@ -26,7 +26,7 @@ fn main() {
             },
         }
     } else if action == "list" {
-        todo.list(&item)
+        todo.list()
     }
 }
 

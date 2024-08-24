@@ -1,6 +1,8 @@
 {
-  "Fix": false,
-  "Make": true,
+  "Make coffee now": true,
   "Brew coffee": true,
-  "Make coffee now": true
+  "Food": true,
+  "Drink coffee": true,
+  "Make": true,
+  "Fix": false
 }
